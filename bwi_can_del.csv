@@ -1,0 +1,9 @@
+Category,BWI-delayed flights,BWI-cancelled flights,DCA-delayed flights,DCA-cancelled flights,IAD-delayed flights,IAD-cancelled flights,BWI-delayed only weather,DCA-delayed only weather,IAD-delayed only weather,,,BWI-delayed only weather,,bwiCanWeather,total,DCA-total flights,
+"Haze, Fog 4",272,11,91,47,54,4,6,5,0,,,6,,4,1566,827,418
+Heavy Rain 6,58,4,28,2,12,0,5,3,2,,,5,,4,93,97,37
+Thunderstorms and Rain 7,113,67,111,18,58,1,43,25,13,,,43,,58,226,221,97
+Thunderstorms 8,71,11,34,5,49,2,14,7,11,,,14,,8,113,76,94
+Heavy Thunderstorms and Rain 9,71,43,56,9,12,0,34,22,3,,,34,,27,115,123,17
+Ice Pellets 10,13,1,0,0,1,5,0,0,0,,,0,,0,47,0,9
+Freezing Rain 11,119,75,34,32,32,10,22,6,7,,,22,,71,305,112,62
+Heavy Snow 13,29,10,6,19,1,0,6,1,0,,,6,,10,54,28,3
