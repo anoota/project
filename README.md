@@ -1,2 +1,2 @@
 # project
-files for data science class
+data files for introduction to data analytics
