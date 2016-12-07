@@ -1,0 +1,79 @@
+Category,total cancelled,airports,total flights,cancallation over total
+Clear,59,BWI-cancelled flights,5296,0.01
+"Overcast, Partly Cloudy",541,BWI-cancelled flights,45069,0.01
+Mostly Cloudy ,337,BWI-cancelled flights,32031,0.01
+"Haze, Fog ",11,BWI-cancelled flights,1566,0.01
+"Light Rain, Rain, Mist ",146,BWI-cancelled flights,7649,0.02
+Heavy Rain ,4,BWI-cancelled flights,93,0.04
+Thunderstorms and Rain ,67,BWI-cancelled flights,226,0.3
+Thunderstorms ,11,BWI-cancelled flights,113,0.1
+Heavy Thunderstorms and Rain ,43,BWI-cancelled flights,115,0.37
+Ice Pellets ,1,BWI-cancelled flights,47,0.02
+Freezing Rain ,75,BWI-cancelled flights,305,0.25
+Light Snow ,245,BWI-cancelled flights,1167,0.21
+Heavy Snow ,10,BWI-cancelled flights,54,0.19
+Clear,36,BWI-weather cancelled flights,,0.006797583
+"Overcast, Partly Cloudy",307,BWI-weather cancelled flights,,0.006811777
+Mostly Cloudy ,187,BWI-weather cancelled flights,,0.005838094
+"Haze, Fog ",4,BWI-weather cancelled flights,,0.002554278
+"Light Rain, Rain, Mist ",94,BWI-weather cancelled flights,,0.012289188
+Heavy Rain ,4,BWI-weather cancelled flights,,0.043010753
+Thunderstorms and Rain ,58,BWI-weather cancelled flights,,0.256637168
+Thunderstorms ,8,BWI-weather cancelled flights,,0.07079646
+Heavy Thunderstorms and Rain ,27,BWI-weather cancelled flights,,0.234782609
+Ice Pellets ,0,BWI-weather cancelled flights,,0
+Freezing Rain ,71,BWI-weather cancelled flights,,0.232786885
+Light Snow ,235,BWI-weather cancelled flights,,0.201371037
+Heavy Snow ,10,BWI-weather cancelled flights,,0.185185185
+Clear,111,DCA-cancelled flights,4714,0.023546882
+"Overcast, Partly Cloudy",878,DCA-cancelled flights,42834,0.020497735
+Mostly Cloudy ,455,DCA-cancelled flights,24357,0.018680461
+"Haze, Fog ",47,DCA-cancelled flights,827,0.056831923
+"Light Rain, Rain, Mist ",251,DCA-cancelled flights,6233,0.040269533
+Heavy Rain ,2,DCA-cancelled flights,97,0.020618557
+Thunderstorms and Rain ,18,DCA-cancelled flights,221,0.081447964
+Thunderstorms ,5,DCA-cancelled flights,76,0.065789474
+Heavy Thunderstorms and Rain ,9,DCA-cancelled flights,123,0.073170732
+Ice Pellets ,0,DCA-cancelled flights,0,0
+Freezing Rain ,32,DCA-cancelled flights,112,0.285714286
+Light Snow ,248,DCA-cancelled flights,772,0.321243523
+Heavy Snow ,19,DCA-cancelled flights,28,0.678571429
+Clear,59,DCA-weather cancelled flights,,0.01251591
+"Overcast, Partly Cloudy",390,DCA-weather cancelled flights,,0.009104917
+Mostly Cloudy ,159,DCA-weather cancelled flights,,0.006527898
+"Haze, Fog ",32,DCA-weather cancelled flights,,0.038694075
+"Light Rain, Rain, Mist ",159,DCA-weather cancelled flights,,0.025509386
+Heavy Rain ,2,DCA-weather cancelled flights,,0.020618557
+Thunderstorms and Rain ,8,DCA-weather cancelled flights,,0.036199095
+Thunderstorms ,1,DCA-weather cancelled flights,,0.013157895
+Heavy Thunderstorms and Rain ,6,DCA-weather cancelled flights,,0.048780488
+Ice Pellets ,0,DCA-weather cancelled flights,,0
+Freezing Rain ,28,DCA-weather cancelled flights,,0.25
+Light Snow ,220,DCA-weather cancelled flights,,0.284974093
+Heavy Snow ,16,DCA-weather cancelled flights,,0.571428571
+Clear,40,IAD-cancelled flights,3316,0.012062726
+"Overcast, Partly Cloudy",248,IAD-cancelled flights,18660,0.013290461
+Mostly Cloudy ,139,IAD-cancelled flights,10966,0.012675543
+"Haze, Fog ",4,IAD-cancelled flights,418,0.009569378
+"Light Rain, Rain, Mist ",41,IAD-cancelled flights,2743,0.014947138
+Heavy Rain ,0,IAD-cancelled flights,37,0
+Thunderstorms and Rain ,1,IAD-cancelled flights,97,0.010309278
+Thunderstorms ,2,IAD-cancelled flights,94,0.021276596
+Heavy Thunderstorms and Rain ,0,IAD-cancelled flights,17,0
+Ice Pellets ,5,IAD-cancelled flights,9,0.555555556
+Freezing Rain ,10,IAD-cancelled flights,62,0.161290323
+Light Snow ,74,IAD-cancelled flights,553,0.133815552
+Heavy Snow ,0,IAD-cancelled flights,3,0
+Clear,8,IAD-weather cancelled flights,,0.002412545
+"Overcast, Partly Cloudy",88,IAD-weather cancelled flights,,0.00471597
+Mostly Cloudy ,45,IAD-weather cancelled flights,,0.004103593
+"Haze, Fog ",1,IAD-weather cancelled flights,,0.002392344
+"Light Rain, Rain, Mist ",17,IAD-weather cancelled flights,,0.006197594
+Heavy Rain ,0,IAD-weather cancelled flights,,0
+Thunderstorms and Rain ,1,IAD-weather cancelled flights,,0.010309278
+Thunderstorms ,0,IAD-weather cancelled flights,,0
+Heavy Thunderstorms and Rain ,0,IAD-weather cancelled flights,,0
+Ice Pellets ,5,IAD-weather cancelled flights,,0.555555556
+Freezing Rain ,3,IAD-weather cancelled flights,,0.048387097
+Light Snow ,40,IAD-weather cancelled flights,,0.072332731
+Heavy Snow ,0,IAD-weather cancelled flights,,0
